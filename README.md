@@ -1,5 +1,5 @@
 # Image manipulation using Numpy
-This project demonstrates how to use the NumPy library for imgage manipulation (slicing, rotating, merging)
+This project demonstrates how to use the NumPy library for imgage manipulation.
 ## Getting Started
 To get started, you will need to have a Google account to access the Colab platform. Once you have access, you can open the picture_slicing.ipynb notebook file in Colab and execute the code cells.
 ## Original image 
